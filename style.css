@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'DIGITAL';
+  font-weight: 100;
+}
+
+@font-face{
+  src: url('DS-DIGI.TTF');
+  font-family: 'DIGITAL'
+}
+
+body {
+  font-size: 15pt;
+  background-color: black;
+}
+
+.container {
+  width: 400px;
+  height: 100px;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 200px;;
+  right: 20px;
+}
+
+
+#rel {
+  width: 450px;
+  height: 100px;
+  background-color: #000;
+  color: limegreen;
+  font-size: 100px;
+  border: none;
+  outline: none;
+}
+
+.copyright{
+  margin: 0 auto;
+  margin-top: 500px;
+}
+
+.copyright h2{
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: limegreen;
+  margin-bottom: 2rem;
+}
+.copyright h3{
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: limegreen;
+  margin-bottom: 2rem;
+}
