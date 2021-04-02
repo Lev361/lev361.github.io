@@ -19,10 +19,9 @@ body {
 .container {
   width: 400px;
   height: 100px;
-  position: relative;
   margin: 0 auto;
-  margin-top: 200px;;
-  right: 20px;
+  margin-top: 200px;
+  margin-left: 110px;
 }
 
 
@@ -39,6 +38,7 @@ body {
 .copyright{
   margin: 0 auto;
   margin-top: 500px;
+  margin-left: 65px;
 }
 
 .copyright h2{
