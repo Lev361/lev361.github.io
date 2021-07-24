@@ -20,14 +20,13 @@ body {
   margin: 0 auto;
   background-color: 
 }
-input{
-  margin: 0 auto;
-}
 
-#rel {
+
+#rel input{
   width: 450px;
   height: 100px;
   background-color: red;
+  margin:0 auto;
   color: limegreen;
   font-size: 100px;
   border: none;
