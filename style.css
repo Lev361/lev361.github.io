@@ -27,7 +27,7 @@ input{
 #rel {
   width: 450px;
   height: 100px;
-  background-color: #red;
+  background-color: red;
   color: limegreen;
   font-size: 100px;
   border: none;
