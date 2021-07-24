@@ -18,14 +18,16 @@ body {
 
 .container {
   margin: 0 auto;
-  background-color: red;
+  background-color: 
 }
-
+input{
+  margin: 0 auto;
+}
 
 #rel {
   width: 450px;
   height: 100px;
-  background-color: #000;
+  background-color: #red;
   color: limegreen;
   font-size: 100px;
   border: none;
