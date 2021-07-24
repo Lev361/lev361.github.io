@@ -17,11 +17,8 @@ body {
 }
 
 .container {
-  width: 400px;
-  height: 100px;
   margin: 0 auto;
-  margin-top: 200px;
-  margin-left: 110px;
+  background-color: red;
 }
 
 
